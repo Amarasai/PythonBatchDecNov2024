@@ -69,14 +69,14 @@ To push the changes,
 
    To get the latest changes
 
-
        git pull origin main
 
 
-    To create new branch git checkout -b
+    To create new branch
+
+    git checkout -b<NEW BRANCH NAME>
 
 
-## Course Completed  
-   
+## Course Completed    
    
    
