@@ -3,24 +3,27 @@ Becoming a Python Developer
 
 ## Git commands
 
-To clone a repositary (not needed in codespace, needed for local development)
+To clone a repositary (not needed in codespace, needed for local development):
 
 
 
 git clone https https://github.com/Amarasai/PythonBatchDecNov2024.git
 
 
-to list the local branches:
+To list the local branches:
+
 
    git branch
 
 
 To create a branch:
 
+
    git checkout -b class01
 
 
 To see the latest local changes:
+
 
    git status
 
@@ -70,9 +73,7 @@ To push the changes,
        git pull origin main
 
 
-    To create new branch 
-
-       git checkout -b <NEW BRANCH NAME>
+    To create new branch git checkout -b
 
 
 ## Course Completed  
